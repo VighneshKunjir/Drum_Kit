@@ -11,6 +11,6 @@ Welcome to the Drum Kit web application! This interactive project allows users t
 
 ## Features:
 
-. Responsive Design: The application is designed to work on various screen sizes, allowing you to play drums on desktops,laptops, tablets, and mobile devices.
-. Customizable Sounds: You can easily customize the sounds by modifying the JavaScript code (index.js) to add your own drum samples.
-. Keyboard Support: In addition to mouse clicks, the application supports keyboard input for a more dynamic playing experience.
+1. Responsive Design: The application is designed to work on various screen sizes, allowing you to play drums on desktops,laptops, tablets, and mobile devices.
+2. Customizable Sounds: You can easily customize the sounds by modifying the JavaScript code (index.js) to add your own drum samples.
+3. Keyboard Support: In addition to mouse clicks, the application supports keyboard input for a more dynamic playing experience.
